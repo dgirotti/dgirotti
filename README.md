@@ -18,14 +18,14 @@ Contact information
 
 - Birth Date: 01-08-1979
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **Education**
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 - Bachelor’s Degree in System Engineering
 - Universidad Marcelino Champagnat (2008)
 
+**Professional Summary** 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
- **Professional Summary** 
 
 Proactive and innovative QA Engineer with over 13 years of experience in software development and testing. Expertise in test case design, functional testing, and quality assurance processes. Skilled in Agile methodologies and fostering team collaboration, with a proven track record of improving workflows and delivering high-quality software products. 
 
@@ -33,9 +33,8 @@ Proactive and innovative QA Engineer with over 13 years of experience in softwar
 
 Testing Tools: TestLink, TestRail, Rainforest, TestIO, Zephyr Scale, BrowserStack, Postman, Newman, Jira, Confluence, Launchdarkly, Buildkite, Firebase, Git, GitHub, SQL Server, Dynamo DB, Postgres, Figma, InVision, Miro, Cypress, Swagger. Testing Processes: Test Planning, Test Case Design, Documentation, Reporting, Bug Tracking, QA Metrics Dashboard, User Story Creation. Test Types: Functional, Regression, Exploratory, Smoke, Sanity, Usability, ADA, API, Mobile (Android & iOS). Methodologies: Agile (Scrum, Kanban). 
 
+**Professional Experience** 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
- **Professional Experience** 
-
 **Wonolo**
 
 - Senior QA Engineer June 2022 – November 2024
@@ -81,9 +80,8 @@ Project: Mobile Stock Market App (UK)
 Designed and executed regression and performance tests for iOS and iPad apps.
 Ensured UI compliance with Apple's protocols and analyzed requirements.
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 **Certifications & Courses** 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 - ISTQB Certification - Agile Testing (2018, Udemy)
 - Scrum Master Certification (2018, Agilar)
