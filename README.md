@@ -30,8 +30,9 @@ Contact information
 Proactive and innovative QA Engineer with over 13 years of experience in software development and testing. Expertise in test case design, functional testing, and quality assurance processes. Skilled in Agile methodologies and fostering team collaboration, with a proven track record of improving workflows and delivering high-quality software products. 
 
 **Skills**
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Testing Tools: TestLink, TestRail, Rainforest, TestIO, Zephyr Scale, BrowserStack, Postman, Newman, Jira, Confluence, Launchdarkly, Buildkite, Firebase, Git, GitHub, SQL Server, Dynamo DB, Postgres, Figma, InVision, Miro, Cypress, Swagger. Testing Processes: Test Planning, Test Case Design, Documentation, Reporting, Bug Tracking, QA Metrics Dashboard, User Story Creation. Test Types: Functional, Regression, Exploratory, Smoke, Sanity, Usability, ADA, API, Mobile (Android & iOS). Methodologies: Agile (Scrum, Kanban). 
+Testing Tools & Techniques: TestLink, TestRail, Rainforest, TestIO, Zephyr Scale, BrowserStack, Postman, Newman, Jira, Confluence, Launchdarkly, Buildkite, Firebase, Git, GitHub, SQL Server, Dynamo DB, Postgres, Figma, InVision, Miro, Cypress, Swagger. Testing Processes: Test Planning, Test Case Design, Documentation, Reporting, Bug Tracking, QA Metrics Dashboard, User Story Creation. Test Types: Functional, Regression, Exploratory, Smoke, Sanity, Usability, ADA, API, Mobile (Android & iOS). Methodologies: Agile (Scrum, Kanban). 
 
 **Professional Experience** 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
