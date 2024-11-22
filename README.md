@@ -5,16 +5,18 @@ Contact information
 
 - Email: diegogirotti@gmail.com
 
-- Phone: +54 9 261 3330593
-
 - LinkedIn: [linkedin.com/in/diego-girotti-011540a3](https://www.linkedin.com/in/diego-girotti-011540a3/)
 
 - GitHub: [github.com/dgirotti](https://github.com/dgirotti)
 
+- Phone: +54 9 261 3330593
+
+- Address: Mendoza, Argentina
+
 **Personal Information**
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-- Languages: Spanish: Native, English: Upper Intermedia
+- Languages: Spanish (Native), English (Upper Intermedia)
 
 - Birth Date: 01-08-1979
 
