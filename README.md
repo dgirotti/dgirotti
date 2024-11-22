@@ -59,7 +59,7 @@ Contributed to Scrum ceremonies and maintained QA documentation.
 
 **Eventbrite**
 
-- Senior QA Engineer & Scrum Master 2016 – 2021
+- Senior QA Engineer & Scrum Master July 2016 – August 2021
 
 Led test parties and facilitated team training for new feature launches.
 Managed Scrum processes, including sprint planning, retrospectives, and standups.
@@ -67,7 +67,7 @@ Enhanced QA processes and participated in user story validation and documentatio
 
 **Belatrix**
 
-- QA Engineer 2011 – 2016
+- QA Engineer January 2011 – July 2016
 
 Project: Assurance System (USA)
 
