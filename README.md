@@ -57,6 +57,8 @@ Conduct root causes analysis for identified issues and provide recomendations fo
 
 Developed QA metrics dashboards and managed bug tracking tools.
 
+Evaluate tests to be automated by the automation team to optimize workflow and testing efficiency.
+
 Participated in Scrum ceremonies and optimized QA testing processes.
 
 **Santex**
@@ -87,6 +89,8 @@ Enhanced QA processes and participated in user story validation and documentatio
 Conduct root causes analysis for identified issues and provide recomendations for improvements. 
 
 Participate in the design and implementation of testing process and best practices.
+
+Evaluate tests to be automated by the automation team to optimize workflow and testing efficiency.
 
 Mentored new QA team members.
 
