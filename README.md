@@ -1,4 +1,4 @@
-DIEGO GIROTTI  SR. MANUAL QA ENGINEER
+ DIEGO GIROTTI,  SR. MANUAL QA ENGINEER
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Contact information
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -37,89 +37,96 @@ Proactive and innovative QA Engineer with over 13 years of experience in softwar
 
 TestLink, TestRail, Rainforest, TestIO, Zephyr Scale, BrowserStack, Postman, Newman, Jira, Confluence, Launchdarkly, Buildkite, Firebase, Git, GitHub, SQL Server, Dynamo DB, Postgres, Figma, InVision, Miro, Cypress, Swagger. Testing Processes: Test Planning, Test Case Design, Documentation, Reporting, Bug Tracking, QA Metrics Dashboard, User Story Creation. Test Types: Functional, Regression, Exploratory, Smoke, Sanity, Usability, ADA, API, Mobile (Android & iOS). 
 
-Methodologies: Agile (Scrum, Kanban). 
+#### Methodologies: Agile (Scrum, Kanban). 
 
 **Professional Experience** 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-**Wonolo**
+## **Wonolo**
 
-- Senior QA Engineer June 2022 – November 2024
+- ### Senior Manual QA Engineer (June 2022 – November 2024)
 
-Develop and execute test plans and test cases to ensure the quality of software application across various platforms.
+1. Develop and execute test plans and test cases to ensure the quality of software application across various platforms.
 
-Colaborate closely with the software developers, product manager and other stakeholers to undestand project requirements and provide input on functional specifications.
+2. Colaborate closely with the software developers, product manager and other stakeholers to undestand project requirements and provide input on functional specifications.
 
-Conducted various testing types: Regression, Sanity, Smoke, Functional, API Testing.
+3. Perform manual testing to identify errors, failures, and inconsistencies in the software.
 
-Identify, document and track software defects using issue tracking tools and work with development teams to resolve issues in a timely manner.
+4. Conducted various testing types: Regression, Sanity, Smoke, Functional, API Testing.
 
-Conduct root causes analysis for identified issues and provide recomendations for improvements.
+5. Identify, document and track software defects using issue tracking tools and work with development teams to resolve issues in a timely manner.
 
-Developed QA metrics dashboards and managed bug tracking tools.
+6. Conduct root causes analysis for identified issues and provide recomendations for improvements.
 
-Evaluate tests to be automated by the automation team to optimize workflow and testing efficiency.
+7. Developed QA metrics dashboards and managed bug tracking tools.
 
-Participated in Scrum ceremonies and optimized QA testing processes.
+8. Evaluate tests to be automated by the automation team to optimize workflow and testing efficiency.
 
-**Santex**
+9. Participated in Scrum ceremonies and optimized QA testing processes.
 
-- Senior QA Analyst August 2021 – June 2022
+## **Santex**
 
-Develop and execute comprehensive test plans and test cases.
+- ### Senior QA Analyst (August 2021 – June 2022)
 
-Perform thorought testing including, Performed Regression, Sanity, Smoke, Exploratory, Functional, and API testing to detect software defect and ensure adherence to quality standards
+1. Develop and execute comprehensive test plans and test cases.
 
-Mentored new QA team members and conducted technical interviews.
+2. Perform thorought testing including, Performed Regression, Sanity, Smoke, Exploratory, Functional, and API testing to detect software defect and ensure adherence to quality standards.
 
-Contributed to Scrum ceremonies and maintained QA documentation.
+3. Mentored new QA team members and conducted technical interviews.
+
+4. Contributed to Scrum ceremonies and maintained QA documentation.
 
 
-**Eventbrite**
+## **Eventbrite**
 
-- Senior QA Engineer & Scrum Master July 2016 – August 2021
+- ### Senior QA Engineer & Scrum Master (July 2016 – August 2021)
 
-Colaborate closely with the software developers, product manager and other stakeholers to undestand project requirements and provide input on functional specifications 
+1. Colaborate closely with the software developers, product manager and other stakeholers to undestand project requirements and provide input on functional specifications.
 
-Led test parties and facilitated team training for new feature launches.
+2. Perform manual testing to identify errors, failures, and inconsistencies in the software.
 
-Managed Scrum processes, including sprint planning, retrospectives, and standups.
+3. Led test parties and facilitated team training for new feature launches.
 
-Enhanced QA processes and participated in user story validation and documentation.
+4. Managed Scrum processes, including sprint planning, retrospectives, and standups.
 
-Conduct root causes analysis for identified issues and provide recomendations for improvements. 
+5. Enhanced QA processes and participated in user story validation and documentation.
 
-Participate in the design and implementation of testing process and best practices.
+6. Conduct root causes analysis for identified issues and provide recomendations for improvements. 
 
-Evaluate tests to be automated by the automation team to optimize workflow and testing efficiency.
+7. Participate in the design and implementation of testing process and best practices.
 
-Mentored new QA team members.
+8. Evaluate tests to be automated by the automation team to optimize workflow and testing efficiency.
 
-**Belatrix**
+9. Mentored new QA team members.
 
-- QA Engineer January 2011 – July 2016
+## **Belatrix Software Factory**
 
-Project: Assurance System (USA)
+- ### QA Engineer (January 2011 – July 2016)
 
-Designed test plans and defined scope and test scenarios.
+#### Project: Assurance System (USA)
 
-Developed and executed test cases, identifying data sets and expected results.
+1. Designed test plans and defined scope and test scenarios.
 
-Automated tests using TFS and executed automation scripts.
+2. Developed and executed test cases, identifying data sets and expected results.
 
-Identify, document and track software defects using issue tracking tools and work with development teams to resolve issues in a timely manner.
+3. Automated tests using TFS and executed automation scripts.
 
-Project: Website for Buying & Personalizing Cards (Canada)
+4. Identify, document and track software defects using issue tracking tools and work with development teams to resolve issues in a timely manner.
 
-Conducted frontend testing, analyzed requirements, and documented use cases.
+#### Project: Website for Buying & Personalizing Cards (Canada)
 
-Develop and execute test plans and test cases.
+1. Conducted frontend testing, analyzed requirements, and documented use cases.
 
-Project: Mobile Stock Market App (UK)
-Designed and executed regression and performance tests for iOS and iPad apps.
+2. Develop and execute test plans and test cases.
 
-Ensured UI compliance with Apple's protocols and analyzed requirements.
+3. Estimate, prioritize and coordinate testing activities.
 
-Develop and execute test plans and test cases.
+#### Project: Mobile Stock Market App (UK)
+
+1. Designed and executed regression and performance tests for iOS and iPad apps.
+
+2. Ensured UI compliance with Apple's protocols and analyzed requirements.
+
+3. Develop and execute test plans and test cases.
 
 **Certifications & Courses** 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
