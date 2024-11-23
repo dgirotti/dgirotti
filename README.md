@@ -45,29 +45,34 @@ Methodologies: Agile (Scrum, Kanban).
 
 - Senior QA Engineer June 2022 – November 2024
 
-Develop and execute comprehensive test plans and test cases to ensure the quality of software application across various platforms.
+Develop and execute test plans and test cases to ensure the quality of software application across various platforms.
+Colaborate closely with the software developers, product manager and other stakeholers to undestand project requirements and provide input on functional specifications.
 Conducted various testing types: Regression, Sanity, Smoke, Functional, API Testing.
-Created and maintained test plans, test cases, and test suites.
+Identify, document and track software defects using issue tracking tools and work with development teams to resolve issues in a timely manner.
+Conduct root causes analysis for identified issues and provide recomendations for improvements.
 Developed QA metrics dashboards and managed bug tracking tools.
 Participated in Scrum ceremonies and optimized QA testing processes.
-Reviewed Business Analysis documents and design specifications.
 
 **Santex**
 
 - Senior QA Analyst August 2021 – June 2022
 
 Develop and execute comprehensive test plans and test cases.
-Performed Regression, Sanity, Smoke, Exploratory, Functional, and API testing.
+Perform thorought testing including, Performed Regression, Sanity, Smoke, Exploratory, Functional, and API testing to detect software defect and ensure adherence to quality standards
 Mentored new QA team members and conducted technical interviews.
 Contributed to Scrum ceremonies and maintained QA documentation.
+
 
 **Eventbrite**
 
 - Senior QA Engineer & Scrum Master July 2016 – August 2021
 
+Colaborate closely with the software developers, product manager and other stakeholers to undestand project requirements and provide input on functional specifications 
 Led test parties and facilitated team training for new feature launches.
 Managed Scrum processes, including sprint planning, retrospectives, and standups.
 Enhanced QA processes and participated in user story validation and documentation.
+Conduct root causes analysis for identified issues and provide recomendations for improvements. 
+Participate in the design and implementation of testing process and best practices.
 Mentored new QA team members.
 
 **Belatrix**
@@ -79,15 +84,17 @@ Project: Assurance System (USA)
 Designed test plans and defined scope and test scenarios.
 Developed and executed test cases, identifying data sets and expected results.
 Automated tests using TFS and executed automation scripts.
+Identify, document and track software defects using issue tracking tools and work with development teams to resolve issues in a timely manner.
 
 Project: Website for Buying & Personalizing Cards (Canada)
 
 Conducted frontend testing, analyzed requirements, and documented use cases.
-Designed and executed test cases and scenarios.
+Develop and execute test plans and test cases.
 
 Project: Mobile Stock Market App (UK)
 Designed and executed regression and performance tests for iOS and iPad apps.
 Ensured UI compliance with Apple's protocols and analyzed requirements.
+Develop and execute test plans and test cases.
 
 **Certifications & Courses** 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
