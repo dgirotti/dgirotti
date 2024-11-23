@@ -45,6 +45,7 @@ Methodologies: Agile (Scrum, Kanban).
 
 - Senior QA Engineer June 2022 – November 2024
 
+Develop and execute comprehensive test plans and test cases to ensure the quality of software application across various platforms.
 Conducted various testing types: Regression, Sanity, Smoke, Functional, API Testing.
 Created and maintained test plans, test cases, and test suites.
 Developed QA metrics dashboards and managed bug tracking tools.
@@ -55,6 +56,7 @@ Reviewed Business Analysis documents and design specifications.
 
 - Senior QA Analyst August 2021 – June 2022
 
+Develop and execute comprehensive test plans and test cases.
 Performed Regression, Sanity, Smoke, Exploratory, Functional, and API testing.
 Mentored new QA team members and conducted technical interviews.
 Contributed to Scrum ceremonies and maintained QA documentation.
@@ -66,6 +68,7 @@ Contributed to Scrum ceremonies and maintained QA documentation.
 Led test parties and facilitated team training for new feature launches.
 Managed Scrum processes, including sprint planning, retrospectives, and standups.
 Enhanced QA processes and participated in user story validation and documentation.
+Mentored new QA team members.
 
 **Belatrix**
 
