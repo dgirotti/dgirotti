@@ -144,7 +144,7 @@ Proactive and innovative QA Engineer with over 13 years of experience in softwar
 
 - Develop and execute test plans and test cases.
 
-**Certifications & Courses** 
+[**Certifications & Courses**](https://github.com/dgirotti/dgirotti/tree/main/Certificados)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 - ISTQB Certification - Agile Testing (2018, Udemy)
