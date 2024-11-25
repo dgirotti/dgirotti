@@ -123,6 +123,8 @@ Proactive and innovative QA Engineer with over 13 years of experience in softwar
 - Develop and execute test plans and test cases.
 
 - Estimate, prioritize and coordinate testing activities.
+  
+- Ensure that all software defects are identified, tracked, and resolved through structured testing processes.
 
 #### Project: Mobile Stock Market App (UK)
 
