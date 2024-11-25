@@ -35,102 +35,102 @@ Proactive and innovative QA Engineer with over 13 years of experience in softwar
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **Testing Tools & Techniques:** 
 
-TestLink, TestRail, Rainforest, TestIO, Zephyr Scale, BrowserStack, Postman, Newman, Jira, Confluence, Launchdarkly, Buildkite, Firebase, Git, GitHub, SQL Server, Dynamo DB, Postgres, Figma, InVision, Miro, Cypress, Swagger. 
+- TestLink, TestRail, Rainforest, TestIO, Zephyr Scale, BrowserStack, Postman, Newman, Jira, Confluence, Launchdarkly, Buildkite, Firebase, Git, GitHub, SQL Server, Dynamo DB, Postgres, Figma, InVision, Miro, Cypress, Swagger. 
 
-_QA Processes:_ Test Planning, Test Cases Design, Documentation, Bug Reporting, Bug Tracking, QA Dashboard, User Story A/C Creation. 
+- _QA Processes:_ Test Planning, Test Cases Design, Documentation, Bug Reporting, Bug Tracking, QA Dashboard, User Story A/C Creation. 
 
-_Types of Testing:_ Functional, Regression, Exploratory, Smoke, Sanity, Usability, ADA, API, Mobile (Android & iOS). 
+- _Types of Testing:_ Functional, Regression, Exploratory, Smoke, Sanity, Usability, ADA, API, Mobile (Android & iOS). 
 
 #### Methodologies: Agile (Scrum, Kanban). 
 
 **Professional Experience** 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## **Wonolo**
+## [**Wonolo**](https://www.wonolo.com/)
 
-- ### Senior Manual QA Engineer (June 2022 – November 2024)
+ ### Senior Manual QA Engineer (June 2022 – November 2024)
 
-1. Develop and execute test plans and test cases to ensure the quality of software application across various platforms.
+- Develop and execute test plans and test cases to ensure the quality of software application across various platforms.
 
-2. Colaborate closely with the software developers, product manager and other stakeholers to undestand project requirements and provide input on functional specifications.
+- Colaborate closely with the software developers, product manager and other stakeholers to undestand project requirements and provide input on functional specifications.
 
-3. Perform manual testing to identify errors, failures, and inconsistencies in the software.
+- Perform manual testing to identify errors, failures, and inconsistencies in the software.
 
-4. Conducted various testing types: Regression, Sanity, Smoke, Functional, API Testing.
+- Conducted various testing types: Regression, Sanity, Smoke, Functional, API Testing.
 
-5. Identify, document and track software defects using issue tracking tools and work with development teams to resolve issues in a timely manner.
+- Identify, document and track software defects using issue tracking tools and work with development teams to resolve issues in a timely manner.
 
-6. Conduct root causes analysis for identified issues and provide recomendations for improvements.
+- Conduct root causes analysis for identified issues and provide recomendations for improvements.
 
-7. Developed QA metrics dashboards and managed bug tracking tools.
+- Developed QA metrics dashboards and managed bug tracking tools.
 
-8. Evaluate tests to be automated by the automation team to optimize workflow and testing efficiency.
+- Evaluate tests to be automated by the automation team to optimize workflow and testing efficiency.
 
-9. Participated in Scrum ceremonies and optimized QA testing processes.
+- Participated in Scrum ceremonies and optimized QA testing processes.
 
-## **Santex**
+## [**Santex**](https://santexgroup.com/)
 
-- ### Senior QA Analyst (August 2021 – June 2022)
+ ### Senior QA Analyst (August 2021 – June 2022)
 
-1. Develop and execute comprehensive test plans and test cases.
+- Develop and execute comprehensive test plans and test cases.
 
-2. Perform thorought testing including, Performed Regression, Sanity, Smoke, Exploratory, Functional, and API testing to detect software defect and ensure adherence to quality standards.
+- Perform thorought testing including, Performed Regression, Sanity, Smoke, Exploratory, Functional, and API testing to detect software defect and ensure adherence to quality standards.
 
-3. Mentored new QA team members and conducted technical interviews.
+- Mentored new QA team members and conducted technical interviews.
 
-4. Contributed to Scrum ceremonies and maintained QA documentation.
+- Contributed to Scrum ceremonies and maintained QA documentation.
 
 
-## **Eventbrite**
+## [**Eventbrite**](https://www.eventbrite.com.ar/)
 
-- ### Senior QA Engineer & Scrum Master (July 2016 – August 2021)
+ ### Senior QA Engineer & Scrum Master (July 2016 – August 2021)
 
-1. Colaborate closely with the software developers, product manager and other stakeholers to undestand project requirements and provide input on functional specifications.
+- Colaborate closely with the software developers, product manager and other stakeholers to undestand project requirements and provide input on functional specifications.
 
-2. Perform manual testing to identify errors, failures, and inconsistencies in the software.
+- Perform manual testing to identify errors, failures, and inconsistencies in the software.
 
-3. Led test parties and facilitated team training for new feature launches.
+- Led test parties and facilitated team training for new feature launches.
 
-4. Managed Scrum processes, including sprint planning, retrospectives, and standups.
+- Managed Scrum processes, including sprint planning, retrospectives, and standups.
 
-5. Enhanced QA processes and participated in user story validation and documentation.
+- Enhanced QA processes and participated in user story validation and documentation.
 
-6. Conduct root causes analysis for identified issues and provide recomendations for improvements. 
+- Conduct root causes analysis for identified issues and provide recomendations for improvements. 
 
-7. Participate in the design and implementation of testing process and best practices.
+- Participate in the design and implementation of testing process and best practices.
 
-8. Evaluate tests to be automated by the automation team to optimize workflow and testing efficiency.
+- Evaluate tests to be automated by the automation team to optimize workflow and testing efficiency.
 
-9. Mentored new QA team members.
+- Mentored new QA team members.
 
-## **Belatrix Software Factory**
+## [**Belatrix Software Factory**](https://belatrix.globant.com/us-en/)
 
-- ### QA Engineer (January 2011 – July 2016)
+ ### QA Engineer (January 2011 – July 2016)
 
 #### Project: Assurance System (USA)
 
-1. Designed test plans and defined scope and test scenarios.
+- Designed test plans and defined scope and test scenarios.
 
-2. Developed and executed test cases, identifying data sets and expected results.
+- Developed and executed test cases, identifying data sets and expected results.
 
-3. Automated tests using TFS and executed automation scripts.
+- Automated tests using TFS and executed automation scripts.
 
-4. Identify, document and track software defects using issue tracking tools and work with development teams to resolve issues in a timely manner.
+- Identify, document and track software defects using issue tracking tools and work with development teams to resolve issues in a timely manner.
 
 #### Project: Website for Buying & Personalizing Cards (Canada)
 
-1. Conducted frontend testing, analyzed requirements, and documented use cases.
+- Conducted frontend testing, analyzed requirements, and documented use cases.
 
-2. Develop and execute test plans and test cases.
+- Develop and execute test plans and test cases.
 
-3. Estimate, prioritize and coordinate testing activities.
+- Estimate, prioritize and coordinate testing activities.
 
 #### Project: Mobile Stock Market App (UK)
 
-1. Designed and executed regression and performance tests for iOS and iPad apps.
+- Designed and executed regression and performance tests for iOS and iPad apps.
 
-2. Ensured UI compliance with Apple's protocols and analyzed requirements.
+- Ensured UI compliance with Apple's protocols and analyzed requirements.
 
-3. Develop and execute test plans and test cases.
+- Develop and execute test plans and test cases.
 
 **Certifications & Courses** 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
