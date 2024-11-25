@@ -154,6 +154,7 @@ Proactive and innovative QA Engineer with over 13 years of experience in softwar
 - ChatGPT for Software Testing / Generative AI (2024, Udemy)
 - Additional certifications in Java, Cloud Testing, Selenium WebDriver, and Jenkins.
 
-[Profile Overview](https://github.com/dgirotti/dgirotti/blob/main/Diego%20Girotti%20Professional%20Overview.pdf)
-
+[Profile Overview](https://github.com/dgirotti/dgirotti/blob/main/Diego%20Girotti%20Professional%20Overview.pdf)       
 [Recommendations](https://github.com/dgirotti/dgirotti/blob/main/Recommendations.pdf)
+
+
