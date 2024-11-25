@@ -65,6 +65,10 @@ Proactive and innovative QA Engineer with over 13 years of experience in softwar
 
 - Evaluate tests to be automated by the automation team to optimize workflow and testing efficiency.
 
+- Reviews software requirements and specifications.
+
+- Reviews third party test plans.
+
 - Participated in Scrum ceremonies and optimized QA testing processes.
 
 ## [**Santex**](https://santexgroup.com/)
@@ -72,6 +76,8 @@ Proactive and innovative QA Engineer with over 13 years of experience in softwar
  ### Senior QA Analyst (August 2021 – June 2022)
 
 - Develop and execute comprehensive test plans and test cases.
+
+- Reviews third party test plans.
 
 - Perform thorought testing including, Performed Regression, Sanity, Smoke, Exploratory, Functional, and API testing to detect software defect and ensure adherence to quality standards.
 
@@ -94,13 +100,15 @@ Proactive and innovative QA Engineer with over 13 years of experience in softwar
 
 - Enhanced QA processes and participated in user story validation and documentation.
 
-- Conduct root causes analysis for identified issues and provide recomendations for improvements. 
+- Conduct root causes analysis for identified issues and provide recomendations for improvements.
+
+- Reviews software requirements and specifications.
 
 - Participate in the design and implementation of testing process and best practices.
 
 - Evaluate tests to be automated by the automation team to optimize workflow and testing efficiency.
 
-- Mentored new QA team members.
+- Coaches and mentors other testers on a daily basis.
 
 ## [**Belatrix Software Factory**](https://belatrix.globant.com/us-en/)
 
@@ -113,6 +121,8 @@ Proactive and innovative QA Engineer with over 13 years of experience in softwar
 - Developed and executed test cases, identifying data sets and expected results.
 
 - Automated tests using TFS and executed automation scripts.
+
+- Work with best QA practices.
 
 - Identify, document and track software defects using issue tracking tools and work with development teams to resolve issues in a timely manner.
 
