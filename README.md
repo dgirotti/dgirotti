@@ -59,7 +59,7 @@ Proactive and innovative QA Engineer with over 13 years of experience in softwar
 
 - Identify, document and track software defects using issue tracking tools and work with development teams to resolve issues in a timely manner.
 
-- Conduct root causes analysis for identified issues and provide recomendations for improvements.
+- Bug classification to identify issues and provide recommendations for improvements.
 
 - Developed QA metrics dashboards and managed bug tracking tools.
 
