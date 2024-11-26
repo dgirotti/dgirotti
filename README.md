@@ -69,7 +69,7 @@ Proactive and innovative QA Engineer with over 13 years of experience in softwar
 
 - Reviews third party test plans.
 
-- Participated in Scrum ceremonies and optimized QA testing processes.
+- Participated in Scrum ceremonies.
 
 ## [**Santex**](https://santexgroup.com/)
 
@@ -83,7 +83,11 @@ Proactive and innovative QA Engineer with over 13 years of experience in softwar
 
 - Mentored new QA team members and conducted technical interviews.
 
-- Contributed to Scrum ceremonies and maintained QA documentation.
+- As a part of the Agile iterative process, take leadership of the QA team and process as well as execute manual testing of new features, followed by regression and after release smoke tests.
+
+- Contributed to Scrum ceremonies.
+
+- Maintain the QA documentation.
 
 
 ## [**Eventbrite**](https://www.eventbrite.com.ar/)
@@ -97,6 +101,8 @@ Proactive and innovative QA Engineer with over 13 years of experience in softwar
 - Led test parties and facilitated team training for new feature launches.
 
 - Managed Scrum processes, including sprint planning, retrospectives, and standups.
+
+- Manage Agile metrics and shared them to the team.
 
 - Enhanced QA processes and participated in user story validation and documentation.
 
@@ -124,7 +130,7 @@ Proactive and innovative QA Engineer with over 13 years of experience in softwar
 
 - Work with best QA practices.
 
-- Identify, document and track software defects using issue tracking tools and work with development teams to resolve issues in a timely manner.
+- Identify, document and track software defects using issue tracking tools (Jira) and work with development teams to resolve issues in a timely manner.
 
 #### Project: Website for Buying & Personalizing Cards (Canada)
 
@@ -135,6 +141,8 @@ Proactive and innovative QA Engineer with over 13 years of experience in softwar
 - Estimate, prioritize and coordinate testing activities.
   
 - Ensure that all software defects are identified, tracked, and resolved through structured testing processes.
+
+- Continually refine test cases and the regression test plan.
 
 #### Project: Mobile Stock Market App (UK)
 
