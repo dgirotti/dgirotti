@@ -37,9 +37,9 @@ Proactive and innovative QA Engineer with over 13 years of experience in softwar
 
 - TestLink, TestRail, Rainforest, TestIO, Zephyr Scale, BrowserStack, Postman, Newman, Jira, Confluence, Launchdarkly, Buildkite, Firebase, Git, GitHub, SQL Server, Dynamo DB, Postgres, Figma, InVision, Miro, Cypress, Swagger. 
 
-- _QA Processes:_ Test Planning, Test Cases Design, Documentation, Bug Reporting, Bug Tracking, QA Dashboard, User Story A/C Creation. 
+- _QA Processes:_ Test Planning, Test Cases Design, Test Execution, Test Documentation, Bug Reporting, Bug Tracking, QA Metrics Dashboard, Bug Prioritization, Defining Users A/C. 
 
-- _Types of Testing:_ Functional, Regression, Exploratory, Smoke, Sanity, Usability, ADA, API, Mobile (Android & iOS). 
+- _Types of Testing:_ System Testing, Regression Testing, Exploratory Testing, Smoke Testing, Sanity Testing, Usability Testing, API Testing, Mobile Testing (Android & iOS), Accessibility Testing (ADA), Compatibility Testing, Localization Testing, End-to-End Testing. 
 
 #### Methodologies: Agile (Scrum, Kanban). 
 
