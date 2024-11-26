@@ -35,13 +35,15 @@ Proactive and innovative QA Engineer with over 13 years of experience in softwar
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **Testing Tools & Techniques:** 
 
-- TestLink, TestRail, Rainforest, TestIO, Zephyr Scale, BrowserStack, Postman, Newman, Jira, Confluence, Launchdarkly, Buildkite, Firebase, Git, GitHub, SQL Server, Dynamo DB, Postgres, Figma, InVision, Miro, Cypress, Swagger. 
+- _QA Tools:_ TestLink, TestRail, Rainforest, TestIO, Zephyr Scale, BrowserStack, Postman, Newman, Jira, Confluence, Launchdarkly, Buildkite, Firebase, Git, GitHub, SQL Server, Dynamo DB, Postgres, Figma, InVision, Miro, Cypress, Swagger. 
 
-- _QA Processes:_ Test Planning, Test Cases Design, Test Execution, Test Documentation, Bug Reporting, Bug Tracking, QA Metrics Dashboard, Bug Prioritization, Defining Users A/C. 
+- _QA Processes:_ Test Planning, Test Cases Design, Test Execution, Test Documentation, Bug Reporting, Bug Tracking, QA Metrics Dashboard, Bug Prioritization, Users A/C. 
 
 - _Types of Testing:_ System Testing, Regression Testing, Exploratory Testing, Smoke Testing, Sanity Testing, Usability Testing, API Testing, Mobile Testing (Android & iOS), Accessibility Testing (ADA), Compatibility Testing, Localization Testing, End-to-End Testing. 
 
-#### Methodologies: Agile (Scrum, Kanban). 
+#### Methodologies: 
+
+- Agile (Scrum, Kanban). 
 
 **Professional Experience** 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -178,7 +180,6 @@ Proactive and innovative QA Engineer with over 13 years of experience in softwar
 - ChatGPT for Software Testing / Generative AI (2024, Udemy)
 - Additional certifications in Java, Cloud Testing, Selenium WebDriver, and Jenkins.
 
-[Profile Overview](https://github.com/dgirotti/dgirotti/blob/main/Diego%20Girotti%20Professional%20Overview.pdf)       
-[Recommendations](https://github.com/dgirotti/dgirotti/blob/main/Recommendations.pdf)
+[Profile Overview](https://github.com/dgirotti/dgirotti/blob/main/Diego%20Girotti%20Professional%20Overview.pdf) &nbsp; &nbsp; &nbsp;[Recommendations](https://github.com/dgirotti/dgirotti/blob/main/Recommendations.pdf)
 
 
