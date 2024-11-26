@@ -1,6 +1,6 @@
  DIEGO GIROTTI,  SR. MANUAL QA ENGINEER
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Contact information
+Contact Information
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 - Email: diegogirotti@gmail.com
@@ -51,7 +51,7 @@ Proactive and innovative QA Engineer with over 13 years of experience in softwar
 
 - Develop and execute test plans and test cases to ensure the quality of software application across various platforms.
 
-- Colaborate closely with the software developers, product manager and other stakeholers to undestand project requirements and provide input on functional specifications.
+- Collaborate closely with the software developers, product manager and other stakeholders to understand project requirements and provide input on functional specifications.
 
 - Perform manual testing to identify errors, failures, and inconsistencies in the software.
 
@@ -79,7 +79,7 @@ Proactive and innovative QA Engineer with over 13 years of experience in softwar
 
 - Reviews third party test plans.
 
-- Perform thorought testing including, Performed Regression, Sanity, Smoke, Exploratory, Functional, and API testing to detect software defect and ensure adherence to quality standards.
+- Perform thorough testing including, Performed Regression, Sanity, Smoke, Exploratory, Functional, and API testing to detect software defects and ensure adherence to quality standards.
 
 - Mentored new QA team members and conducted technical interviews.
 
@@ -94,27 +94,31 @@ Proactive and innovative QA Engineer with over 13 years of experience in softwar
 
  ### Senior QA Engineer & Scrum Master (July 2016 – August 2021)
 
-- Colaborate closely with the software developers, product manager and other stakeholers to undestand project requirements and provide input on functional specifications.
+- Collaborate closely with the software developers, product manager and other stakeholders to understand project requirements and provide input on functional specifications.
 
 - Perform manual testing to identify errors, failures, and inconsistencies in the software.
 
 - Led test parties and facilitated team training for new feature launches.
 
-- Managed Scrum processes, including sprint planning, retrospectives, and standups.
-
-- Manage Agile metrics and shared them to the team.
-
 - Enhanced QA processes and participated in user story validation and documentation.
 
-- Conduct root causes analysis for identified issues and provide recomendations for improvements.
+- Conduct root causes analysis for identified issues and provide recommendations for improvements.
 
 - Reviews software requirements and specifications.
 
-- Participate in the design and implementation of testing process and best practices.
+- Participate in the design and implementation of the testing process and best practices.
 
 - Evaluate tests to be automated by the automation team to optimize workflow and testing efficiency.
 
 - Coaches and mentors other testers on a daily basis.
+
+- Managed Scrum processes, including sprint planning, retrospectives, and standups.
+
+- Managing and sharing Sprint metrics.
+
+- Worked on the documentation of users' stories.
+
+
 
 ## [**Belatrix Software Factory**](https://belatrix.globant.com/us-en/)
 
@@ -126,11 +130,19 @@ Proactive and innovative QA Engineer with over 13 years of experience in softwar
 
 - Developed and executed test cases, identifying data sets and expected results.
 
-- Automated tests using TFS and executed automation scripts.
-
 - Work with best QA practices.
 
 - Identify, document and track software defects using issue tracking tools (Jira) and work with development teams to resolve issues in a timely manner.
+
+- Automated tests using TFS and executed automation scripts.
+
+- Reviewed Automation requirements. 
+
+- Worked on the Automation Test Plan. 
+
+- Executed test scripts for Automation.
+  
+- Executed Automation Tests.
 
 #### Project: Website for Buying & Personalizing Cards (Canada)
 
@@ -148,9 +160,13 @@ Proactive and innovative QA Engineer with over 13 years of experience in softwar
 
 - Designed and executed regression and performance tests for iOS and iPad apps.
 
+- Verify IU for the app was being designed according to Apple's protocol. 
+
 - Ensured UI compliance with Apple's protocols and analyzed requirements.
 
 - Develop and execute test plans and test cases.
+
+- Worked on the performance testing. 
 
 [**Certifications & Courses**](https://github.com/dgirotti/dgirotti/tree/main/Certificados)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
