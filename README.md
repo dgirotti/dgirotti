@@ -49,7 +49,7 @@ Proactive and innovative QA Engineer with over 13 years of experience in softwar
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## [**Wonolo**](https://www.wonolo.com/)
 
- ### Senior Manual QA Engineer (June 2022 – November 2024)
+ ### Senior Manual QA Engineer (June 2022 – October 2024)
 
 - Develop and execute test plans and test cases to ensure the quality of software application across various platforms.
 
