@@ -35,7 +35,7 @@ Proactive and innovative QA Engineer with over 13 years of experience in softwar
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **Testing Tools & Techniques:** 
 
-- _QA Tools:_ TestLink, TestRail, Rainforest, TestIO, Zephyr Scale, BrowserStack, Postman, Newman, Jira, Confluence, Launchdarkly, Buildkite, Firebase, Git, GitHub, SQL Server, Dynamo DB, Postgres, Figma, InVision, Miro, Cypress, Swagger. 
+- _QA Tools:_ TestLink, TestRail, Rainforest, TestIO, Zephyr Scale, BrowserStack, Postman, Newman, Jira, Confluence, Launchdarkly, Buildkite, Firebase, Git, GitHub, SQL Server, Dynamo DB, Postgres, Figma, InVision, Miro, Cypress, Swagger, Jenkins. 
 
 - _QA Processes:_ Test Planning, Test Cases Design, Test Execution, Test Documentation, Bug Reporting, Bug Tracking, QA Metrics Dashboard, Bug Prioritization, Users A/C. 
 
