@@ -168,7 +168,7 @@ Proactive and innovative QA Engineer with over 13 years of experience in softwar
 
 - Develop and execute test plans and test cases.
 
-- Worked on the performance testing. 
+- Worked on the performance testing verifying that the app's loading speed on different connection (3G, 4G, Low WiFi, and WiFi). 
 
 [**Certifications & Courses**](https://github.com/dgirotti/dgirotti/tree/main/Certificados)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
