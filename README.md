@@ -160,7 +160,7 @@ Proactive and innovative QA Engineer with over 13 years of experience in softwar
 
 #### Project: Mobile Stock Market App (UK)
 
-- Designed and executed regression and performance tests for iOS and iPad apps.
+- Designed and executed regression and performance tests for iOS (iPhone & iPad) apps .
 
 - Verify IU for the app was being designed according to Apple's protocol. 
 
