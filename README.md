@@ -114,6 +114,8 @@ Proactive and innovative QA Engineer with over 13 years of experience in softwar
 
 - Evaluate tests to be automated by the automation team to optimize workflow and testing efficiency.
 
+- QA SignOff and GO/NO GO process for tested features.
+
 - Coaches and mentors other testers on a daily basis.
 
 - Managed Scrum processes, including sprint planning, retrospectives, and standups.
