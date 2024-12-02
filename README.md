@@ -71,6 +71,8 @@ Proactive and innovative QA Engineer with over 13 years of experience in softwar
 
 - Reviews third party test plans.
 
+- QA SignOff and GO/NO GO process
+
 - Participated in Scrum ceremonies.
 
 ## [**Santex**](https://santexgroup.com/)
