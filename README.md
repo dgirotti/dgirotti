@@ -29,7 +29,8 @@ Contact Information
 **Professional Summary** 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Proactive and innovative QA Engineer with over 13 years of experience in software development and testing. Expertise in test case design, functional testing, and quality assurance processes. Skilled in Agile methodologies and fostering team collaboration, with a proven track record of improving workflows and delivering high-quality software products. 
+I am a quality control engineer with more than 13 years of experience in software development and testing. I have experience in test case design, functional testing and quality control processes which I have applied in large companies such as Eventbrite or in start-ups such as Wonolo, managing to improve the delivery of software products with high quality.
+As a Scrum Master I have applied agile methodologies as well as team collaboration.
 
 **Skills**
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
