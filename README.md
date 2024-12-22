@@ -42,7 +42,7 @@ As a Scrum Master I have applied agile methodologies as well as team collaborati
 
 - _QA Processes:_ Test Planning, Test Cases Design, Test Execution, Test Documentation, Bug Reporting, Bug Tracking, QA Metrics Dashboard, Bug Prioritization, Users A/C. 
 
-- _Types of Testing:_ System Testing, Regression Testing, Exploratory Testing, Smoke Testing, Sanity Testing, Usability Testing, API Testing, Mobile Testing (Android & iOS), Accessibility Testing (ADA), Compatibility Testing, Localization Testing, End-to-End Testing. 
+- _Types of Testing:_ System Testing, Regression Testing, Exploratory Testing, Smoke Testing, Sanity Testing, Usability Testing, API Testing, Mobile Testing (Android & iOS), Accessibility Testing (ADA), Compatibility Testing, Localization Testing, End-to-End Testing, A/B Testing, i18n Testing, l10n Testing. 
 
 #### Methodologies: 
 
