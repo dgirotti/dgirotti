@@ -185,7 +185,7 @@ As a Scrum Master I have applied agile methodologies as well as team collaborati
 - Postman API Fundamentals Student Expert (2023, Postman)
 - Cypress E2E Automation Testing (2024, Udemy)
 - ChatGPT for Software Testing / Generative AI (2024, Udemy)
-- Additional certifications in Java, Cloud Testing, Selenium WebDriver, and Jenkins.
+- Additional certifications in JavaScript, Playwright, Selenium WebDriver, and Jenkins.
 
 [Profile Overview](https://github.com/dgirotti/dgirotti/blob/main/Diego%20Girotti%20Professional%20Overview.pdf) &nbsp; &nbsp; &nbsp;[Feedback](https://github.com/dgirotti/dgirotti/blob/main/Feedback.pdf)
 
