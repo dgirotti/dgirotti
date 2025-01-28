@@ -29,10 +29,9 @@ Contact Information
 **Professional Summary** 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-I am a QA engineer with more than 13 years of experience in SDLC and testing. I have experience in test case design, functional testing and quality control processes which I have applied in large companies such as Eventbrite or in start-ups such as Wonolo, managing to improve the delivery of software products with high quality. 
+I have over 14 years of experience in QA, working on software projects across various industries and technologies. Throughout my career I have combined technical skills, leadership and collaboration with team members and stakeholders.
 
-As a Scrum Master I have applied agile methodologies as well as team collaboration.
-
+In addition to my QA responsibilities, I took on the role of Scrum Master combining Agile Management with QA tasks. 
 
 **Skills**
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
