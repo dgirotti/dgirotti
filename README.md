@@ -37,7 +37,7 @@ In addition to my QA responsibilities, I took on the role of Scrum Master combin
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **Testing Tools & Techniques:** 
 
-- _QA Tools:_ TestLink, TestRail, Rainforest, TestIO, Zephyr Scale, BrowserStack, Postman, Newman, Jira, Confluence, Launchdarkly, Buildkite, Firebase, Git, GitHub, SQL Server, Dynamo DB, Postgres, Figma, InVision, Miro, Cypress, Swagger, Jenkins, Teams. 
+- _QA Tools:_ TestLink, TestRail, Rainforest, TestIO, Zephyr Scale, BrowserStack, Postman, Newman, Jira, Confluence, Launchdarkly, Buildkite, Firebase, Git, GitHub, SQL Server, Dynamo DB, Postgres, Figma, InVision, Miro, Cypress, Swagger, Jenkins, Teams, TestFlight. 
 
 - _QA Processes:_ Test Planning, Test Cases Design, Test Execution, Test Documentation, Bug Reporting, Bug Tracking, QA Metrics Dashboard, Bug Prioritization, Users A/C. 
 
