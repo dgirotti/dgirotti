@@ -186,6 +186,6 @@ In addition to my QA responsibilities, I took on the role of Scrum Master combin
 - ChatGPT for Software Testing / Generative AI (2024, Udemy)
 - Additional certifications in JavaScript, Playwright, Selenium WebDriver, and Jenkins.
 
-[Profile Overview](https://github.com/dgirotti/dgirotti/blob/main/Diego%20Girotti%20Professional%20Overview-1.pdf) &nbsp; &nbsp; &nbsp;[Feedback](https://github.com/dgirotti/dgirotti/blob/main/Feedback.pdf) &nbsp; &nbsp; &nbsp;[Reference](https://github.com/dgirotti/dgirotti/blob/main/Reference.pdf)
+[Profile Overview](https://github.com/dgirotti/dgirotti/blob/main/Diego%20Girotti%20Professional%20Overview-1.pdf) &nbsp; &nbsp; &nbsp;[Feedback](https://github.com/dgirotti/dgirotti/blob/main/Feedback.pdf) &nbsp; &nbsp; &nbsp;[Reference](https://github.com/dgirotti/dgirotti/blob/main/References.pdf)
 
 
