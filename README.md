@@ -49,6 +49,11 @@ In addition to my QA responsibilities, I took on the role of Scrum Master combin
 
 **Professional Experience** 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## [**Forte Group**](https://fortegrp.com)
+
+ ### Senior Manual QA Engineer (February 2025 –  )
+
+
 ## [**Wonolo**](https://www.wonolo.com/)
 
  ### Senior Manual QA Engineer (June 2022 – October 2024)
