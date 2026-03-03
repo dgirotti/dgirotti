@@ -51,7 +51,7 @@ In addition to my QA responsibilities, I took on the role of Scrum Master combin
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## [**Forte Group**](https://fortegrp.com)
 
- ### Senior Manual QA Engineer (February 2025 –  )
+ ### Senior Manual QA Engineer (February 2025 – December 2025 )
 #### Project: Bahler /FBi Buildings   
 A pre-engineered post-frame design, engineering, manufacturing, and self-perform construction company serving agricultural, livestock, suburban, commercial, and industrial markets. The Mach10 project focuses on developing a digital platform to streamline the design and estimation process for building projects, improving efficiency, accuracy, and collaboration across teams.
 - Perform manual functional, regression, and smoke testing across web modules within the Mach10 platform.
