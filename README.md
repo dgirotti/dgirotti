@@ -29,7 +29,7 @@ Contact Information
 **Professional Summary** 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-I have over 14 years of experience in QA, working on software projects across various industries and technologies. Throughout my career I have combined technical skills, leadership and collaboration with team members and stakeholders.
+I have over 15 years of experience in QA, working on software projects across various industries and technologies. Throughout my career I have combined technical skills, leadership and collaboration with team members and stakeholders.
 
 In addition to my QA responsibilities, I took on the role of Scrum Master combining Agile Management with QA tasks. 
 
